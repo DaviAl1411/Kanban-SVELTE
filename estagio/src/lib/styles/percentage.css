@@ -1,0 +1,10 @@
+.concluded {
+    color: green;
+
+}
+.in-progress {
+    color: orange;
+}
+.not-started {
+    color: red;
+}
